@@ -1,6 +1,6 @@
-# Curso-WEB--Atividade-Navbar
+# Curso-WEB--Gerador de Senha Aleatório - JS
 
-Projeto de desenvolvimento Rotating Loading 
+Projeto de desenvolvimento Gerador de Senha Aleatório - JS 
 
 Atividade curso Web
 
