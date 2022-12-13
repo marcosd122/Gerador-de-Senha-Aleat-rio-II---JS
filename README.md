@@ -1,6 +1,6 @@
-# Curso-WEB--Gerador de Senha Aleatório - JS
+# Curso-WEB--Gerador de Senha Aleatório II - JS
 
-Projeto de desenvolvimento Gerador de Senha Aleatório - JS 
+Projeto de desenvolvimento Gerador de Senha Aleatório II - JS 
 
 Atividade curso Web
 
